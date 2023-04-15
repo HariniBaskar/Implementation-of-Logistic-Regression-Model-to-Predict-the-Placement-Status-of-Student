@@ -73,7 +73,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![pic3](https://user-images.githubusercontent.com/93427253/232233896-451779ad-2f7c-4b58-af49-d06b93224ffc.png)
 ![pic4](https://user-images.githubusercontent.com/93427253/232233917-c2ffc403-0e49-484f-a546-f4e94a735dda.png)
 ![pic5](https://user-images.githubusercontent.com/93427253/232233935-7640d063-1fcb-4e3b-87c2-de376a37494b.png)
-![pic6](https://user-images.githubusercontent.com/93427253/232233943-fca98c33-4793-4b79-82ba-ae2a70b32b39.png)
+![pic8](https://user-images.githubusercontent.com/93427253/232234355-566bc3a4-88eb-4a8d-93d3-f14529e9e49a.png)
 ![pic7](https://user-images.githubusercontent.com/93427253/232233982-30cbc204-36f9-4be3-8dfb-b08acac3a32f.png)
 
 
